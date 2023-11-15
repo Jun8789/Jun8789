@@ -1,6 +1,6 @@
-👋 Hi, I’m @Jun8789
-👀 I’m interested in Music, Anime and Manga.
-🌱 I’m currently learning Python and C
+👋 Hi, I’m @Jun8789\n
+👀 I’m interested in Music, Anime and Manga.\n
+🌱 I’m currently learning Python and C\n
 📫 How to reach me - Discord - jun8789
 
 <!---
